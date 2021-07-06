@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="icon-bonuses-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#7DFF2F"/>
+      <stop offset="100%" stop-color="#75CD40"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="32" r="32" fill="url(#icon-bonuses-a)"/>
+    <rect width="32" height="2" x="16" y="31" fill="#FFF" transform="rotate(-45 32 32)"/>
+    <circle cx="39" cy="39" r="4" stroke="#FFF" stroke-width="2"/>
+    <circle cx="25" cy="25" r="4" stroke="#FFF" stroke-width="2"/>
+  </g>
+</svg>

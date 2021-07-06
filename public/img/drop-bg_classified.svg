@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="82px" viewBox="0 0 107 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Полоски</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="82"></rect>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E42F8B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E42F8B" offset="49.9042777%"></stop>
+            <stop stop-color="#E42F8B" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Live-лента" transform="translate(-1452.000000, 0.000000)">
+            <g id="14-(uncommon)">
+                <g transform="translate(1452.000000, 0.000000)">
+                    <g id="Основа">
+                        <g id="Полоски">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle-17"></g>
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(13.192388, 25.192388) rotate(45.000000) translate(-13.192388, -25.192388) " x="12.1923882" y="13.1923882" width="2" height="24"></rect>
+                            <rect id="Rectangle-Copy-12" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(13.192388, 5.192388) rotate(45.000000) translate(-13.192388, -5.192388) " x="12.1923882" y="-6.80761184" width="2" height="24"></rect>
+                            <rect id="Rectangle-Copy-5" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(75.363961, 50.363961) rotate(45.000000) translate(-75.363961, -50.363961) " x="74.363961" y="42.363961" width="2" height="16"></rect>
+                            <rect id="Rectangle-Copy-8" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(102.242641, 30.757359) rotate(45.000000) translate(-102.242641, -30.757359) " x="101.242641" y="25.7573593" width="2" height="10"></rect>
+                            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(55.221825, -3.636039) rotate(45.000000) translate(-55.221825, 3.636039) " x="54.2218254" y="-8.63603897" width="2" height="10"></rect>
+                            <rect id="Rectangle-Copy-10" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(102.242641, 52.242641) rotate(45.000000) translate(-102.242641, -52.242641) " x="101.242641" y="47.2426407" width="2" height="10"></rect>
+                            <rect id="Rectangle-Copy-11" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(34.242641, 16.242641) rotate(45.000000) translate(-34.242641, -16.242641) " x="33.2426407" y="11.2426407" width="2" height="10"></rect>
+                            <rect id="Rectangle-Copy-7" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(59.363961, 30.363961) rotate(45.000000) translate(-59.363961, -30.363961) " x="58.363961" y="22.363961" width="2" height="16"></rect>
+                            <rect id="Rectangle-Copy-6" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(62.363961, 5.363961) rotate(45.000000) translate(-62.363961, -5.363961) " x="61.363961" y="-2.63603897" width="2" height="16"></rect>
+                            <rect id="Rectangle-Copy" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(-4.485281, 67.677670) rotate(45.000000) translate(4.485281, -67.677670) " x="-5.48528137" y="43.6776695" width="2" height="48"></rect>
+                            <rect id="Rectangle-Copy-4" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(89.778175, 77.778175) rotate(45.000000) translate(-89.778175, -77.778175) " x="88.7781746" y="67.7781746" width="2" height="20"></rect>
+                            <rect id="Rectangle-Copy-3" fill="url(#linearGradient-3)" opacity="0.7" mask="url(#mask-2)" transform="translate(25.020815, 56.020815) rotate(45.000000) translate(-25.020815, -56.020815) " x="24.0208153" y="40.0208153" width="2" height="32"></rect>
+                            <rect id="Rectangle-Copy-2" fill="url(#linearGradient-3)" opacity="0.4" mask="url(#mask-2)" transform="translate(97.556349, 7.242641) rotate(45.000000) translate(-97.556349, -7.242641) " x="96.5563492" y="-13.7573593" width="2" height="42"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="215" viewBox="0 0 320 215">
+  <g fill="#293240" fill-rule="evenodd">
+    <path d="M308,0 L312,0 L312,50 L320,55 L320,125 L312,130 L312,180 L284,215 L284,209 L308,179 L308,0 Z M298,65 L298,115 L290,120 L290,60 L298,65 Z"/>
+    <path d="M24,0 L28,0 L28,50 L36,55 L36,125 L28,130 L28,180 L0,215 L0,209 L24,179 L24,0 Z M14,65 L14,115 L6,120 L6,60 L14,65 Z" transform="matrix(-1 0 0 1 36 0)"/>
+  </g>
+</svg>

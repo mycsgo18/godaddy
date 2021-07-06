@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="468" viewBox="0 0 680 468">
+  <defs>
+    <linearGradient id="red-lines-a" x1="98.872%" x2="0%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#E43739" stop-opacity="0"/>
+      <stop offset="50.174%" stop-color="#E43739"/>
+      <stop offset="100%" stop-color="#E43739" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="red-lines-b" width="101.4%" height="111.9%" x="-.7%" y="-6%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="red-lines-c" x1="98.872%" x2="0%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#E43739" stop-opacity="0"/>
+      <stop offset="50.174%" stop-color="#E43739"/>
+      <stop offset="100%" stop-color="#E43739" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="red-lines-d" width="102.4%" height="111.9%" x="-1.2%" y="-6%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="red-lines-e" x1="98.872%" x2="0%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#E43739" stop-opacity="0"/>
+      <stop offset="50.174%" stop-color="#E43739"/>
+      <stop offset="100%" stop-color="#E43739" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="red-lines-f" width="101.1%" height="107.3%" x="-.6%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="red-lines-g" x1="98.872%" x2="0%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#E43739" stop-opacity="0"/>
+      <stop offset="50.174%" stop-color="#E43739"/>
+      <stop offset="100%" stop-color="#E43739" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="red-lines-h" width="101.1%" height="114.2%" x="-.6%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="red-lines-i" x1="98.872%" x2="0%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#E43739" stop-opacity="0"/>
+      <stop offset="50.174%" stop-color="#E43739"/>
+      <stop offset="100%" stop-color="#E43739" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="red-lines-j" width="101.4%" height="121.8%" x="-.7%" y="-10.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <filter id="red-lines-k" width="101.4%" height="121.8%" x="-.7%" y="-10.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="red-lines-l" x1="98.872%" x2="0%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#E43739" stop-opacity="0"/>
+      <stop offset="50.174%" stop-color="#E43739"/>
+      <stop offset="100%" stop-color="#E43739" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="red-lines-m" width="101.4%" height="143.6%" x="-.7%" y="-21.8%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" opacity=".1" transform="translate(-1 -2)">
+    <polygon fill="url(#red-lines-a)" points="30.279 101.354 446.698 101.33 446.696 151.67 30.276 151.694" filter="url(#red-lines-b)" transform="rotate(-30 238.487 126.512)"/>
+    <polygon fill="url(#red-lines-c)" points="323.783 359.493 577.979 359.478 577.976 409.818 323.78 409.833" filter="url(#red-lines-d)" transform="rotate(-30 450.88 384.656)"/>
+    <polygon fill="url(#red-lines-e)" points="103.202 203.743 643.398 203.712 643.393 286.086 103.198 286.117" filter="url(#red-lines-f)" transform="rotate(-30 373.298 244.914)"/>
+    <polygon fill="url(#red-lines-g)" points="101.86 171.531 642.056 171.5 642.054 213.602 101.858 213.633" filter="url(#red-lines-h)" transform="rotate(-30 371.957 192.567)"/>
+    <polygon fill="url(#red-lines-i)" points="289.741 263.743 706.161 263.719 706.159 291.177 289.739 291.201" filter="url(#red-lines-j)" transform="rotate(-30 497.95 277.46)"/>
+    <polygon fill="url(#red-lines-i)" points="-20.036 102.288 396.384 102.264 396.382 129.722 -20.038 129.746" filter="url(#red-lines-k)" transform="rotate(-30 188.173 116.005)"/>
+    <polygon fill="url(#red-lines-l)" points="207.774 299.571 624.193 299.547 624.192 313.277 207.773 313.3" filter="url(#red-lines-m)" transform="rotate(-30 415.983 306.424)"/>
+  </g>
+</svg>

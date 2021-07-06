@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="32" viewBox="0 0 33 32">
+  <defs>
+    <linearGradient id="cup-logo-a" x1="50%" x2="50%" y1="12.193%" y2="98.385%">
+      <stop offset="1.859%" stop-color="#73AAEF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#73AAEF"/>
+    </linearGradient>
+    <linearGradient id="cup-logo-b" x1="50%" x2="50%" y1="100%" y2="41.716%">
+      <stop offset="0%" stop-color="#73AAEF"/>
+      <stop offset="100%" stop-color="#73AAEF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 -6)">
+    <polygon fill="url(#cup-logo-a)" fill-opacity=".25" points="16.454 0 32.909 9.5 32.909 28.5 16.454 38 0 28.5 0 9.5"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="8 11.5 12.625 14.875 10.875 9.375 15.5 6.125 9.875 6.125 8 .5 6.125 6.125 .5 6.125 5.125 9.375 3.375 14.875" transform="translate(9 11)"/>
+    <path stroke="url(#cup-logo-b)" stroke-width="2" d="M16.4544827,1.15470054 L1,10.0773503 L1,27.9226497 L16.4544827,36.8452995 L31.9089653,27.9226497 L31.9089653,10.0773503 L16.4544827,1.15470054 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="icon-cases-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF9902"/>
+      <stop offset="100%" stop-color="#FF6F00"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="32" r="32" fill="url(#icon-cases-a)"/>
+    <g transform="translate(16 20)">
+      <path stroke="#FFF" stroke-width="2" d="M1,23 L31,23 L31,5 C31,2.790861 29.209139,1 27,1 L5,1 C2.790861,1 1,2.790861 1,5 L1,23 Z"/>
+      <rect width="2" height="24" x="5" fill="#FFF"/>
+      <rect width="2" height="24" x="25" fill="#FFF"/>
+      <rect width="13" height="2" y="8" fill="#FFF"/>
+      <rect width="13" height="2" x="19" y="8" fill="#FFF"/>
+      <rect width="4" height="6" x="14" y="6" stroke="#FFF" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

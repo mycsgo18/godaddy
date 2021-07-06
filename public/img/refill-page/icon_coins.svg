@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="28" height="28"/>
+    <ellipse cx="14" cy="21" stroke="#B1BBCA" stroke-width="2" rx="12" ry="6"/>
+    <ellipse cx="14" cy="14" fill="#121D2A" stroke="#B1BBCA" stroke-width="2" rx="12" ry="6"/>
+    <ellipse cx="14" cy="7" fill="#131E2B" stroke="#B1BBCA" stroke-width="2" rx="12" ry="6"/>
+  </g>
+</svg>

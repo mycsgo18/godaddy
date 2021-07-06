@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="24px" viewBox="0 0 27 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_mycsgo</title>
+    <defs>
+        <polygon id="path-1" points="0 0.0372 22.5281679 0.0372 22.5281679 19.7669143 0 19.7669143"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo_mycsgo">
+            <path d="M15.3926357,23.9627679 L26.7056357,17.3739107 L26.7056357,4.23316071 C25.3240286,5.04241071 23.9432786,5.85176786 22.5616714,6.66101786 L22.5616714,14.9604107 L15.3926357,19.1355536 L8.30899286,15.0104464 C6.93145714,15.8173393 5.55488571,16.624125 4.17745714,17.4308036 L15.3926357,23.9627679 Z" id="Fill-1" fill="#63ADF2" fill-rule="nonzero"></path>
+            <g id="Group-5" transform="translate(0.000000, 0.069964)">
+                <g id="Fill-3-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M11.3129893,0.0372 L-1.07142857e-05,6.62605714 L-1.07142857e-05,19.7669143 C1.38159643,18.9576643 2.76234643,18.1483071 4.14395357,17.33895 L4.14395357,9.03966429 L11.3129893,4.86452143 L18.3966321,8.98952143 C19.7741679,8.18273571 21.1507393,7.37595 22.5281679,6.56916429 L11.3129893,0.0372 Z" id="Fill-3" fill="#DB324D" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

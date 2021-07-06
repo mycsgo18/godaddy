@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g fill="none" fill-rule="evenodd" stroke="#FEAB3A" stroke-width="1.2">
+    <circle cx="8" cy="8" r="7.4"/>
+    <polygon stroke-linejoin="round" points="8 9.56 5.649 11.236 6.516 8.482 4.196 6.764 7.083 6.738 8 4 8.917 6.738 11.804 6.764 9.484 8.482 10.351 11.236"/>
+  </g>
+</svg>

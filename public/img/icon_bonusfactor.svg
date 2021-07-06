@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Иконка</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-581.000000, -523.000000)">
+        <g id="Ограниченная-серия" transform="translate(262.000000, 285.000000)">
+            <g id="Новогодний-кейс" transform="translate(234.000000, 66.000000)">
+                <g id="Group-6" transform="translate(82.000000, 169.000000)">
+                    <g id="Иконка" transform="translate(3.928571, 3.928571)">
+                        <circle id="Oval-4" fill="#FFFFFF" cx="7.07142857" cy="7.07142857" r="7.07142857"></circle>
+                        <path d="M7.68177371,10.9558532 L3.80219876,8.70899016 C4.27868809,8.43147541 4.75489072,8.15396065 5.23138004,7.87644589 L7.68177371,9.29536591 L10.1616971,7.85919109 L10.1616971,5.00438383 C10.6396199,4.72600633 11.117256,4.44762883 11.5951788,4.16925134 L11.5951788,8.68940596 L7.68177371,10.9558532 Z M6.27054797,2.75 L10.1501229,4.99686301 C9.67363359,5.27437777 9.19743096,5.55189253 8.72094163,5.82940728 L6.27054797,4.41048727 L3.79062458,5.84666209 L3.79062458,8.70146934 C3.31270178,8.97984684 2.83506566,9.2582531 2.35714286,9.53660184 L2.35714286,5.01641845 L6.27054797,2.75 Z" id="Fill-4" fill="#FFAD3C"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Иконка</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Настройки-прицела" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-979.000000, -603.000000)">
+        <g id="Case" transform="translate(305.000000, 295.000000)">
+            <g id="Header" transform="translate(139.000000, 0.000000)">
+                <g id="Бонусы-Copy" transform="translate(451.000000, 291.000000)">
+                    <g id="Group" transform="translate(84.000000, 14.000000)">
+                        <g id="Иконка" transform="translate(0.000000, 3.000000)">
+                            <circle id="Oval-2" stroke="#63ADF2" stroke-width="1.2" cx="8" cy="8" r="6.4"></circle>
+                            <circle id="Oval-2-Copy" stroke="#63ADF2" stroke-width="1.2" cx="8" cy="8" r="2.4"></circle>
+                            <rect id="Rectangle-13" fill="#63ADF2" x="7.40000153" y="0" width="1.20000005" height="4" rx="0.600000024"></rect>
+                            <rect id="Rectangle-13-Copy-2" fill="#63ADF2" x="12" y="7.5" width="4" height="1.20000005" rx="0.600000024"></rect>
+                            <rect id="Rectangle-13-Copy-3" fill="#63ADF2" x="0" y="7.3999939" width="4" height="1.20000005" rx="0.600000024"></rect>
+                            <rect id="Rectangle-13-Copy" fill="#63ADF2" x="7.40000153" y="12" width="1.20000005" height="4" rx="0.600000024"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="86" viewBox="0 0 173 86">
+  <defs>
+    <rect id="info-fx-orange-a" width="207" height="86" x="0" y="0"/>
+    <linearGradient id="info-fx-orange-b" x1="98.872%" x2=".078%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#FF9200" stop-opacity="0"/>
+      <stop offset="50.298%" stop-color="#FF9200"/>
+      <stop offset="99.921%" stop-color="#FF9200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="info-fx-orange-c" width="106.3%" height="152%" x="-3.1%" y="-26%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="info-fx-orange-e" x1="98.872%" x2=".078%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#FF9200" stop-opacity="0"/>
+      <stop offset="50.298%" stop-color="#FF9200"/>
+      <stop offset="99.921%" stop-color="#FF9200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="info-fx-orange-f" width="110.3%" height="152%" x="-5.1%" y="-26%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="info-fx-orange-g" x1="98.872%" x2=".078%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#FF9200" stop-opacity="0"/>
+      <stop offset="50.298%" stop-color="#FF9200"/>
+      <stop offset="99.921%" stop-color="#FF9200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="info-fx-orange-h" width="103.6%" height="131.8%" x="-1.8%" y="-15.9%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="info-fx-orange-i" x1="98.872%" x2=".078%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#FF9200" stop-opacity="0"/>
+      <stop offset="50.298%" stop-color="#FF9200"/>
+      <stop offset="99.921%" stop-color="#FF9200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="info-fx-orange-j" width="104.8%" height="162.2%" x="-2.4%" y="-31.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="info-fx-orange-k" x1="98.872%" x2=".078%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#FF9200" stop-opacity="0"/>
+      <stop offset="50.298%" stop-color="#FF9200"/>
+      <stop offset="99.921%" stop-color="#FF9200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="info-fx-orange-l" width="106.3%" height="195.3%" x="-3.1%" y="-47.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <filter id="info-fx-orange-m" width="106.3%" height="195.3%" x="-3.1%" y="-47.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+    <linearGradient id="info-fx-orange-n" x1="98.872%" x2=".078%" y1="48.872%" y2="48.872%">
+      <stop offset="0%" stop-color="#FF9200" stop-opacity="0"/>
+      <stop offset="50.298%" stop-color="#FF9200"/>
+      <stop offset="99.921%" stop-color="#FF9200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="info-fx-orange-o" width="106.3%" height="290.7%" x="-3.1%" y="-95.3%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" opacity=".401" transform="translate(-18)">
+    <mask id="info-fx-orange-d" fill="#fff">
+      <use xlink:href="#info-fx-orange-a"/>
+    </mask>
+    <rect width="95.439" height="11.537" x="22.491" y="22.087" fill="url(#info-fx-orange-b)" filter="url(#info-fx-orange-c)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 70.21 27.855)"/>
+    <polygon fill="url(#info-fx-orange-e)" points="96.982 74.792 155.241 74.792 155.241 86.329 96.982 86.329" filter="url(#info-fx-orange-f)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 126.111 80.56)"/>
+    <rect width="166.124" height="18.878" x="33.591" y="22.108" fill="url(#info-fx-orange-g)" filter="url(#info-fx-orange-h)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 116.653 31.547)"/>
+    <polygon fill="url(#info-fx-orange-i)" points="30.119 29.305 153.926 29.305 153.926 38.954 30.119 38.954" filter="url(#info-fx-orange-j)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 92.022 34.13)"/>
+    <polygon fill="url(#info-fx-orange-k)" points="77.18 59.438 172.619 59.438 172.619 65.731 77.18 65.731" filter="url(#info-fx-orange-l)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 124.9 62.585)"/>
+    <polygon fill="url(#info-fx-orange-k)" points="13.18 13.438 108.619 13.438 108.619 19.731 13.18 19.731" filter="url(#info-fx-orange-m)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 60.9 16.585)"/>
+    <rect width="95.439" height="3.146" x="58.393" y="59.649" fill="url(#info-fx-orange-n)" filter="url(#info-fx-orange-o)" mask="url(#info-fx-orange-d)" opacity=".637" transform="rotate(-30 106.113 61.222)"/>
+  </g>
+</svg>

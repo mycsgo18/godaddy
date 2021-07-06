@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="256px" viewBox="0 0 222 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>knife</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.1225287%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA800" offset="0%"></stop>
+            <stop stop-color="#FFA800" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="110 0 205.262794 55 205.262794 165 110 220 14.7372056 165 14.7372056 55"></polygon>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFA800" offset="0%"></stop>
+            <stop stop-color="#FFA800" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-5">
+            <stop stop-color="#FFA800" offset="0%"></stop>
+            <stop stop-color="#FFA800" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.8719707%" y1="48.8719707%" x2="3.12100377%" y2="48.8719702%" id="linearGradient-6">
+            <stop stop-color="#FFA800" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFA800" stop-opacity="0.4" offset="48.9118304%"></stop>
+            <stop stop-color="#FFA800" stop-opacity="0" offset="97.3920701%"></stop>
+        </linearGradient>
+        <filter x="-2.2%" y="-18.6%" width="104.5%" height="137.1%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-3.7%" y="-18.6%" width="107.3%" height="137.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-1.7%" y="-11.3%" width="103.5%" height="122.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-1.7%" y="-22.2%" width="103.5%" height="144.4%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.2%" y="-34.0%" width="104.5%" height="168.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.2%" y="-34.0%" width="104.5%" height="168.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.2%" y="-68.0%" width="104.5%" height="236.1%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Билет" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-60.000000, -36.000000)">
+            <g id="knife" transform="translate(61.000000, 54.000000)">
+                <path d="M110,-8.66025404 L212.762794,50.669873 L212.762794,169.330127 L110,228.660254 L7.23720558,169.330127 L7.23720558,50.669873 L110,-8.66025404 Z" id="Polygon" stroke="#000000" stroke-width="15" opacity="0.2"></path>
+                <polygon id="Polygon" fill="url(#linearGradient-1)" opacity="0.3" points="110 0 205.262794 55 205.262794 165 110 220 14.7372056 165 14.7372056 55"></polygon>
+                <g id="Polygon">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <polygon fill-opacity="0.1" fill="#000000" mask="url(#mask-3)" points="16.0627944 -54.2666667 111.325589 0.733333333 111.325589 110.733333 16.0627944 165.733333 -79.2 110.733333 -79.2 0.733333333"></polygon>
+                    <polygon fill-opacity="0.05" fill="#000000" mask="url(#mask-3)" points="205.262794 55.7333333 300.525589 110.733333 300.525589 220.733333 205.262794 275.733333 110 220.733333 110 110.733333"></polygon>
+                </g>
+                <path d="M110,1.15470054 L15.7372056,55.5773503 L15.7372056,164.42265 L110,218.845299 L204.262794,164.42265 L204.262794,55.5773503 L110,1.15470054 Z" id="Polygon" stroke="url(#linearGradient-4)" stroke-width="2"></path>
+                <path d="M109.641771,9.57735027 L22.5,59.8886751 L22.5,160.511325 L109.641771,210.82265 L196.783542,160.511325 L196.783542,59.8886751 L109.641771,9.57735027 Z" id="Polygon" stroke="url(#linearGradient-5)"></path>
+                <polygon id="Polygon" fill-opacity="0.2" fill="#000000" points="110.336561 49.0318116 163.136561 79.5159058 163.136561 140.484094 110.336561 170.968188 57.536561 140.484094 57.536561 79.5159058"></polygon>
+                <g id="Полоски" opacity="0.6" transform="translate(0.000000, 34.000000)" fill="url(#linearGradient-6)">
+                    <rect id="Rectangle" opacity="0.35" filter="url(#filter-7)" transform="translate(76.273223, 40.626183) rotate(-30.000000) translate(-76.273223, -40.626183) " x="9.40511693" y="32.5432247" width="133.736213" height="16.1659158"></rect>
+                    <rect id="Rectangle" opacity="0.35" filter="url(#filter-8)" transform="translate(144.486861, 123.522608) rotate(-30.000000) translate(-144.486861, -123.522608) " x="103.668381" y="115.43965" width="81.6369589" height="16.1659158"></rect>
+                    <rect id="Rectangle" opacity="0.55" filter="url(#filter-9)" transform="translate(119.570123, 78.648215) rotate(-30.000000) translate(-119.570123, -78.648215) " x="32.8262486" y="65.4215568" width="173.487748" height="26.4533168"></rect>
+                    <rect id="Rectangle" opacity="0.45" filter="url(#filter-10)" transform="translate(119.139487, 61.837987) rotate(-30.000000) translate(-119.139487, -61.837987) " x="32.3956131" y="55.0776946" width="173.487748" height="13.5205838"></rect>
+                    <rect id="Rectangle" opacity="0.25" filter="url(#filter-11)" transform="translate(159.604368, 89.099394) rotate(-30.000000) translate(-159.604368, -89.099394) " x="92.7362614" y="84.6905081" width="133.736213" height="8.81777225"></rect>
+                    <rect id="Rectangle" opacity="0.25" filter="url(#filter-12)" transform="translate(60.113922, 37.252261) rotate(-30.000000) translate(-60.113922, -37.252261) " x="-6.75418447" y="32.8433744" width="133.736213" height="8.81777225"></rect>
+                    <rect id="Rectangle" opacity="0.2" filter="url(#filter-13)" transform="translate(133.279216, 98.400482) rotate(-30.000000) translate(-133.279216, -98.400482) " x="66.4111099" y="96.1960386" width="133.736213" height="4.40888613"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

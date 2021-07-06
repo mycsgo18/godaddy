@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="icon-missions-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#63ADF2"/>
+      <stop offset="100%" stop-color="#009FFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="32" r="32" fill="url(#icon-missions-a)"/>
+    <path stroke="#FFF" stroke-width="2" d="M32,15.1547005 L17.4115427,23.5773503 L17.4115427,40.4226497 L32,48.8452995 L46.5884573,40.4226497 L46.5884573,23.5773503 L32,15.1547005 Z"/>
+    <polyline stroke="#FFF" stroke-width="2" points="25 31.5 30.091 36.167 39 28"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="102" viewBox="0 0 100 102">
+  <defs>
+    <linearGradient id="bomb-bg-a" x1="50%" x2="50%" y1="12.193%" y2="98.385%">
+      <stop offset="0%" stop-color="#F00" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F00"/>
+    </linearGradient>
+    <linearGradient id="bomb-bg-b" x1="50%" x2="50%" y1="100%" y2="41.716%">
+      <stop offset="0%" stop-color="#FF4416"/>
+      <stop offset="100%" stop-color="#E94117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 -14)">
+    <polygon fill="url(#bomb-bg-a)" fill-opacity=".3" points="49.876 0 99.752 28.796 99.752 86.387 49.876 115.183 0 86.387 0 28.796"/>
+    <path stroke="url(#bomb-bg-b)" stroke-width="2" d="M49.8758086,1.15470054 L1,29.3731618 L1,85.8100843 L49.8758086,114.028546 L98.7516172,85.8100843 L98.7516172,29.3731618 L49.8758086,1.15470054 Z"/>
+  </g>
+</svg>

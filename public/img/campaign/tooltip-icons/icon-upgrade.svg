@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 17</title>
+    <g id="Операция" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Задание-Copy" transform="translate(-118.000000, 0.000000)">
+            <g id="Group-17" transform="translate(118.000000, 0.000000)">
+                <path d="M32,1.15470054 L58.7128129,16.5773503 L58.7128129,47.4226497 L32,62.8452995 L5.28718708,47.4226497 L5.28718708,16.5773503 L32,1.15470054 Z" id="Polygon" stroke="#63ADF2" stroke-width="2" fill="#151B23"></path>
+                <g id="Иконка" transform="translate(18.000000, 16.000000)">
+                    <rect id="Rectangle" x="6" y="7" width="16" height="16"></rect>
+                    <path d="M14,1.15824936 L27,8.75565196 L27,16.2573351 L14,8.65993246 L1,16.2573351 L1,8.75565196 L14,1.15824936 Z" id="Rectangle" stroke="#63ADF2" stroke-width="2"></path>
+                    <path d="M14,15.1470943 L24,20.766929 L24,28.2909222 L14,22.6710875 L4,28.2909222 L4,20.766929 L14,15.1470943 Z" id="Rectangle-Copy" stroke="#63ADF2" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

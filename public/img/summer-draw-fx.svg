@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="49" viewBox="0 0 180 49">
+  <defs>
+    <linearGradient id="summer-drow-frame-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF4664" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FF4664"/>
+    </linearGradient>
+    <linearGradient id="summer-drow-frame-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF4664" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FF4664"/>
+    </linearGradient>
+    <linearGradient id="summer-drow-frame-c" x1="100%" x2="0%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#FF4664" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FF4664"/>
+    </linearGradient>
+    <linearGradient id="summer-drow-frame-d" x1="100%" x2="0%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#FF4664"/>
+      <stop offset="100%" stop-color="#FF4664" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1" height="20" x="89" fill="url(#summer-drow-frame-a)"/>
+    <path fill="url(#summer-drow-frame-b)" d="M122.217514,12.5753788 L122.924621,13.2824856 L108.782486,27.4246212 L108.075379,26.7175144 L122.217514,12.5753788 Z M55.7824856,12.5753788 L69.9246212,26.7175144 L69.2175144,27.4246212 L55.0753788,13.2824856 L55.7824856,12.5753788 Z"/>
+    <rect width="67" height="1" x="113" y="48" fill="url(#summer-drow-frame-c)"/>
+    <rect width="67" height="1" y="48" fill="url(#summer-drow-frame-d)"/>
+  </g>
+</svg>
